@@ -73,6 +73,11 @@ header{
   height: 35px;
   width: 120px;
 }
+.top-signup-btn:hover{
+  border: solid 2px #F9FAF8;
+  background-color: transparent;
+  transition: 0.7s;
+}
 .top-img-placeholder{
   width: 150px;
   height: 150px;
@@ -186,6 +191,12 @@ em{
   font-size: 1.1em;
   height: 35px;
   width: 120px;
+}
+.border-btn:hover{
+  background-color: #F9FAF8;
+  border: solid 2px #1f2937;
+  color: #3b82f6;
+  transition: 0.7s;
 }
 
 /* footer styling */
